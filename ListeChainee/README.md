@@ -1,6 +1,6 @@
 # Implémentation de la liste chaînée
 
-## Technologie utilisée
+## Technologies utilisées
 
 - C#
 - XUnit (Tests unitaires)
