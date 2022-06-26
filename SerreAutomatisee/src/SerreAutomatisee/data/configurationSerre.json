@@ -1,0 +1,7 @@
+{
+    "configuration" : {
+        "controleAutomatique" : true,
+        "temperatureInterieureDesiree" : 25,
+        "pourcentageOuvertureToitModeManuel" : 100
+    }
+}
