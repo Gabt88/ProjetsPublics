@@ -16,4 +16,4 @@ Le script SQL contient :
 6. Insertion de données
 7. Requêtes
 
-![MRD](./mrd-films.png.png)
+![MRD]([./mrd-films.png.png](https://github.com/Gabt88/ProjetsPublics/blob/main/BaseDonneesFilms/mrd-films.png))
